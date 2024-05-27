@@ -1,0 +1,270 @@
+.group-icon {
+  height: 100%;
+  width: 56.6px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  max-height: 100%;
+  object-fit: contain;
+}
+.groupe-5170-icon {
+  height: 12.4px;
+  width: 102.9px;
+  position: relative;
+}
+.group {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 39.2px 0 12.3px;
+  position: relative;
+}
+.newsletter-element-leftsvg1 {
+  flex: 1;
+  padding: 0 0 0.1px;
+}
+.newsletter-element-leftsvg,
+.newsletter-element-leftsvg-fi,
+.newsletter-element-leftsvg1 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.newsletter-element-leftsvg-fi {
+  flex: 1;
+  padding: 2px 0;
+}
+.newsletter-element-leftsvg {
+  width: 168px;
+  flex-shrink: 0;
+}
+.get-fresh-news,
+.nexusconnectnets-newsletter {
+  margin: 0 !important;
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.nexusconnectnets-newsletter {
+  width: 377.3px;
+  top: 15.5px;
+  right: -64px;
+  font-size: inherit;
+  line-height: 38px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.get-fresh-news {
+  width: 458.8px;
+  right: -77.9px;
+  bottom: -5px;
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 300;
+  font-family: Roboto;
+}
+.container16 {
+  margin-left: -643.9000000000015px;
+  height: 135px;
+  width: 544px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 50px 71px;
+  box-sizing: border-box;
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+}
+.input2 {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 44px;
+  font-family: "Open Sans";
+  font-weight: 300;
+  font-size: 18px;
+  color: #868e96;
+}
+.image1,
+.yes-send-me {
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.image1 {
+  margin: 0;
+  height: 24px;
+  width: 24px;
+  min-height: 24px;
+}
+.yes-send-me {
+  line-height: 24px;
+  font-weight: 500;
+}
+.container-frame,
+.container17,
+.label {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.label {
+  flex-direction: row;
+  gap: 12px;
+}
+.container-frame,
+.container17 {
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.container17 {
+  align-self: stretch;
+  padding: 20px 99px 26px;
+  gap: 21px;
+  debug_commit: bf4bc93;
+}
+.container-frame {
+  width: 554.2px;
+  padding: 0 10px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: 18px;
+  font-family: Roboto;
+}
+.newsletter-element-rightsvg-icon {
+  width: 322.9px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  max-width: 100%;
+}
+.input3 {
+  width: 145.7px;
+  height: 48px;
+}
+.container18,
+.form-form {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.container18 {
+  width: 544px;
+  flex-direction: column;
+  padding: 0 15px 8px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.form-form {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 543px;
+  gap: 99.9px;
+}
+.click-here {
+  text-decoration: underline;
+}
+.your-email-address-container1 {
+  width: 100%;
+}
+.your-email-address-container {
+  margin: 0;
+  width: 1282.7px;
+  position: relative;
+  line-height: 20px;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.your-email-address-is-used-by-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 0 27px;
+  text-align: center;
+  font-size: 14px;
+}
+.background8,
+.container15,
+.your-email-address-is-used-by-wrapper {
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.container15 {
+  width: 1632px;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 10.5px;
+  gap: 29.5px;
+}
+.background8 {
+  align-self: stretch;
+  background-color: #c5951b;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 40px 20px 33px;
+  z-index: 7;
+  text-align: left;
+  font-size: 25px;
+  color: #fff;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 1875px) {
+  .form-form {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1450px) {
+  .form-form {
+    padding-left: 271px;
+    padding-right: 271px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 975px) {
+  .container17,
+  .form-form {
+    padding-left: 49px;
+    padding-right: 49px;
+    box-sizing: border-box;
+  }
+  .form-form {
+    gap: 50px;
+    padding-left: 135px;
+    padding-right: 135px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .nexusconnectnets-newsletter {
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .container16,
+  .container17,
+  .form-form {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .form-form {
+    gap: 25px;
+  }
+}

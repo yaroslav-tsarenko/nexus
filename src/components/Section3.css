@@ -1,0 +1,139 @@
+.heading-210 {
+  position: relative;
+  font-size: 31.9px;
+  line-height: 38px;
+  display: inline-block;
+  max-width: 100%;
+}
+.as-an-international,
+.customers-opt-for,
+.purchase-travel-insurance {
+  display: block;
+}
+.as-an-international-container1 {
+  width: 100%;
+}
+.as-an-international-container {
+  margin: 0;
+  width: 735.3px;
+  height: 81px;
+  position: relative;
+  line-height: 27px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+  box-sizing: border-box;
+  padding-right: 20px;
+}
+.insurance-but-also,
+.knowing-that-they,
+.this-integration-enables,
+.travel-plans-effortlessly,
+.whatever-the-destination {
+  display: block;
+}
+.this-integration-enables-container {
+  margin: 0;
+  position: relative;
+  line-height: 27px;
+}
+.heading-2-global-connectivit-parent,
+.section-inner3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.heading-2-global-connectivit-parent {
+  gap: 23.8px;
+}
+.section-inner3 {
+  padding: 400.5px 0 0;
+  box-sizing: border-box;
+  min-width: 759px;
+}
+.image-icon22,
+.link-svg12 {
+  position: absolute;
+  top: 1080px;
+  left: 0;
+  width: 40px;
+  height: 20px;
+}
+.image-icon22 {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 20px;
+  max-height: 100%;
+  width: 960px;
+  overflow: hidden;
+  object-fit: cover;
+  z-index: 1;
+}
+.link-svg-parent {
+  height: 1127px;
+  flex: 1;
+  position: relative;
+  min-width: 637px;
+  max-width: 100%;
+}
+.section15 {
+  align-self: stretch;
+  background-color: #000;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 60px;
+  box-sizing: border-box;
+  gap: 121px;
+  max-width: 100%;
+  z-index: 4;
+  text-align: left;
+  font-size: 17.2px;
+  color: #fff;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 1725px) {
+  .section-inner3 {
+    flex: 1;
+  }
+  .section15 {
+    flex-wrap: wrap;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1325px) {
+  .section15 {
+    gap: 60px;
+  }
+}
+@media screen and (max-width: 900px) {
+  .heading-210 {
+    font-size: 26px;
+    line-height: 30px;
+  }
+  .section-inner3 {
+    padding-top: 260px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .link-svg-parent {
+    min-width: 100%;
+  }
+  .section15 {
+    gap: 30px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-210 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

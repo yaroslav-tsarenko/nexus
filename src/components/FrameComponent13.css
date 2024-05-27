@@ -1,0 +1,88 @@
+.image-icon30 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.assistance4 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 60px;
+  font-weight: 600;
+  font-family: inherit;
+  z-index: 1;
+}
+.nexusconnectnets-iccid {
+  position: relative;
+  font-size: 38.1px;
+  line-height: 48px;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.background27,
+.header-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.background27 {
+  background-color: #000;
+  overflow: hidden;
+  padding: 96.1px 20px 101.9px 852px;
+  box-sizing: border-box;
+  position: relative;
+  margin-top: -2px;
+}
+.header-parent {
+  text-align: left;
+  font-size: 50px;
+  color: #fff;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 1350px) {
+  .background27 {
+    padding-left: 426px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 925px) {
+  .assistance4 {
+    font-size: 40px;
+    line-height: 48px;
+  }
+  .nexusconnectnets-iccid {
+    font-size: 30px;
+    line-height: 38px;
+  }
+  .background27 {
+    padding-left: 213px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .assistance4 {
+    font-size: 30px;
+    line-height: 36px;
+  }
+  .nexusconnectnets-iccid {
+    font-size: 23px;
+    line-height: 29px;
+  }
+  .background27 {
+    padding-left: 20px;
+    box-sizing: border-box;
+  }
+}

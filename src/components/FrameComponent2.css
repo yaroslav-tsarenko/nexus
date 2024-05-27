@@ -1,0 +1,41 @@
+.icon-ubigi-setup-bluesvg {
+  height: 44px;
+  width: 28.3px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.icon-ubigi-setup-bluesvg-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 25px 0 24px;
+}
+.instant,
+.setup {
+  margin: 0;
+}
+.instant-setup {
+  position: relative;
+  line-height: 28px;
+  z-index: 3;
+}
+.frame-parent10 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 14px;
+  text-align: center;
+  font-size: 24px;
+  color: #fff;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 450px) {
+  .instant-setup {
+    font-size: 19px;
+    line-height: 22px;
+  }
+}

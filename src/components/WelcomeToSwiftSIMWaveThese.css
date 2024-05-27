@@ -1,0 +1,26 @@
+.welcome-to-nexusconnectnet {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  max-width: 100%;
+}
+.welcome-to-swiftsimwave-these,
+.welcome-to-swiftsimwave-these1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.welcome-to-swiftsimwave-these1 {
+  flex: 1;
+}
+.welcome-to-swiftsimwave-these {
+  align-self: stretch;
+  text-align: center;
+  font-size: 17.2px;
+  color: #212529;
+  font-family: "Open Sans";
+}

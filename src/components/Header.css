@@ -1,0 +1,327 @@
+.connectnet1,
+.nexus1 {
+  text-decoration: none;
+  position: relative;
+  letter-spacing: 0.36em;
+  line-height: 13px;
+  text-transform: uppercase;
+  color: inherit;
+}
+.nexus1 {
+  width: 135px;
+  font-weight: 800;
+  display: inline-block;
+  white-space: nowrap;
+}
+.connectnet1 {
+  font-size: 12.8px;
+}
+.frame-wrapper4,
+.nexus-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.nexus-group {
+  width: 126px;
+  justify-content: flex-start;
+  padding: 0;
+  gap: 10px;
+}
+.frame-wrapper4 {
+  width: 174px;
+  justify-content: flex-end;
+  padding: 0 0 19.2px;
+}
+.buy-an-esim {
+  position: relative;
+  letter-spacing: 0.1px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+.buy-an-esim-data-plan-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2px;
+}
+.vertical-divider {
+  height: 31.5px;
+  width: 1px;
+  position: relative;
+  background-color: #2f2f2f;
+  flex-shrink: 0;
+}
+.item-link8 {
+  width: 209.3px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 20px 8px 23.5px 11px;
+  box-sizing: border-box;
+  gap: 17.1px;
+}
+.get-started {
+  text-decoration: none;
+  position: relative;
+  letter-spacing: 0.1px;
+  line-height: 24px;
+  color: inherit;
+  display: inline-block;
+  min-width: 102px;
+  white-space: nowrap;
+}
+.get-started-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2px;
+}
+.vertical-divider1 {
+  height: 31.5px;
+  width: 1px;
+  position: relative;
+  background-color: #2f2f2f;
+  flex-shrink: 0;
+}
+.item-link-menu {
+  width: 123px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 20px 9px 23.5px 11px;
+  box-sizing: border-box;
+  gap: 18.8px;
+}
+.top-up {
+  text-decoration: none;
+  position: relative;
+  letter-spacing: 0.1px;
+  line-height: 24px;
+  color: inherit;
+  display: inline-block;
+  min-width: 57px;
+  white-space: nowrap;
+}
+.top-up-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2px;
+}
+.vertical-divider2 {
+  height: 31.5px;
+  width: 1px;
+  position: relative;
+  background-color: #2f2f2f;
+  flex-shrink: 0;
+}
+.item-link9 {
+  width: 79.1px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 20px 10px 23.5px 11px;
+  box-sizing: border-box;
+  gap: 19.8px;
+}
+.help-center {
+  text-decoration: none;
+  position: relative;
+  letter-spacing: 0.1px;
+  line-height: 24px;
+  color: inherit;
+  display: inline-block;
+  min-width: 103px;
+  white-space: nowrap;
+}
+.help-center-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2px;
+}
+.vertical-divider3 {
+  height: 31.5px;
+  width: 1px;
+  position: relative;
+  background-color: #2f2f2f;
+  flex-shrink: 0;
+}
+.item-link-menu1,
+.nav-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.item-link-menu1 {
+  width: 125px;
+  align-items: flex-end;
+  padding: 20px 10px 23.5px 11px;
+  gap: 19.8px;
+}
+.nav-list {
+  margin: 0;
+  flex: 1;
+  align-items: flex-start;
+  padding: 0 16px 0 0;
+  gap: 15.5px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+  font-family: "Open Sans";
+}
+.ubigi-cartsvg-icon {
+  width: 32.9px;
+  height: 28px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.ubigi-cartsvg-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 22.5px;
+}
+.frame-parent21 {
+  width: 805.5px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.link1 {
+  align-self: stretch;
+  width: 124.9px;
+}
+.button1 {
+  height: 44px;
+  flex: 1;
+  font-family: Roboto;
+  font-size: 16px;
+  color: #000;
+  width: auto;
+}
+.link-my-account {
+  align-self: stretch;
+  height: 44px;
+  position: relative;
+  border-radius: 30px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.link-my-account-wrapper {
+  width: 87px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 15px 0 0;
+  box-sizing: border-box;
+}
+.link-svg {
+  width: 28px;
+  height: 28px;
+  position: relative;
+}
+.link-svg-wrapper {
+  flex-direction: column;
+  padding: 7.5px 0 0;
+}
+.container-inner,
+.link-parent,
+.link-svg-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link-parent {
+  align-self: stretch;
+  flex: 1;
+  flex-direction: row;
+  gap: 15px;
+}
+.container-inner {
+  height: 59.5px;
+  width: 439px;
+  flex-direction: column;
+  padding: 15.5px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.background7,
+.container10,
+.header {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.container10 {
+  flex: 1;
+  justify-content: space-between;
+  padding: 0 0 0 5px;
+  box-sizing: border-box;
+  gap: 20px;
+}
+.background7,
+.header {
+  justify-content: flex-start;
+}
+.background7 {
+  flex: 1;
+  background-color: #000;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 3;
+  text-align: center;
+  font-size: 25.6px;
+  color: #fff;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 1450px) {
+  .nav-list {
+    display: none;
+  }
+  .frame-parent21 {
+    width: 206.9000000000051px;
+  }
+}
+@media screen and (max-width: 975px) {
+  .buy-an-esim-data-plan-wrapper {
+    display: none;
+  }
+  .item-link8 {
+    width: 19.299999999999272px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .buy-an-esim,
+  .link-parent {
+    display: none;
+  }
+  .container-inner {
+    width: 0;
+  }
+}

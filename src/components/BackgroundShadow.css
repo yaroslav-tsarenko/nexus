@@ -1,0 +1,124 @@
+.background-icon {
+  height: 40px;
+  width: 40px;
+  position: relative;
+  object-fit: cover;
+}
+.activate-your-esim {
+  position: relative;
+  line-height: 24px;
+}
+.background13 {
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 19px 0 20px;
+  white-space: nowrap;
+}
+.background-container {
+  flex-direction: column;
+  padding: 3.3px 0 0;
+}
+.background-container,
+.background-wrapper,
+.background12 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.background12 {
+  align-self: stretch;
+  flex-direction: row;
+  background-image: url(/public/background2@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  row-gap: 20px;
+}
+.background-wrapper {
+  width: 623.3px;
+  flex-direction: column;
+  padding: 0 20px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.background14 {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 40px;
+  font-family: "Open Sans";
+  font-size: 18px;
+  color: #bebebe;
+}
+.background-frame {
+  width: 623.3px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 20px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.background-icon1 {
+  height: 40px;
+  width: 40px;
+  position: relative;
+  object-fit: contain;
+  min-height: 40px;
+}
+.link-your-esim {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  min-width: 124px;
+}
+.background15 {
+  background-color: #fff;
+  flex-direction: row;
+  padding: 0 19px 0 20px;
+  white-space: nowrap;
+}
+.background-wrapper1,
+.background15,
+.backgroundshadow6,
+.overlayshadow {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.background-wrapper1 {
+  flex-direction: column;
+  padding: 3.3px 0 0;
+  color: #bebebe;
+}
+.backgroundshadow6,
+.overlayshadow {
+  box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.05);
+  flex-direction: row;
+  max-width: 100%;
+}
+.overlayshadow {
+  flex: 1;
+  background-color: transparent;
+  flex-wrap: wrap;
+  padding: 32px 35px 34px;
+  box-sizing: border-box;
+  row-gap: 20px;
+}
+.backgroundshadow6 {
+  align-self: stretch;
+  background-color: #fff;
+  text-align: left;
+  font-size: 18px;
+  color: #000;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 450px) {
+  .background12 {
+    flex-wrap: wrap;
+  }
+}

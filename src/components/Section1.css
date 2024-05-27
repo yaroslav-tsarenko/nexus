@@ -1,0 +1,222 @@
+.game-trade-show,
+.special-offer-for {
+  margin: 0;
+}
+.special-offer-for-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 38px;
+  font-weight: 400;
+  font-family: inherit;
+  padding-right: 26px;
+}
+.as-the-organizer,
+.for-the-event,
+.offering-visitors-from,
+.plan {
+  display: block;
+}
+.as-the-organizer-container {
+  margin: 0;
+  align-self: stretch;
+  height: 108px;
+  position: relative;
+  font-size: 17.3px;
+  line-height: 27px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  box-sizing: border-box;
+  padding-right: 0;
+}
+.enhancing-their-overall,
+.this-exclusive-offer {
+  display: block;
+}
+.this-exclusive-offer-container1 {
+  width: 100%;
+}
+.this-exclusive-offer-container {
+  margin: 0;
+  width: 738.7px;
+  position: relative;
+  font-size: 17.2px;
+  line-height: 27px;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+  box-sizing: border-box;
+  padding-right: 20px;
+}
+.section-inner5,
+.special-offer-for-visitors-to-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.special-offer-for-visitors-to-parent {
+  align-self: stretch;
+  gap: 24px;
+}
+.section-inner5 {
+  width: 750.9px;
+  padding: 408px 0 0;
+  box-sizing: border-box;
+  min-width: 750.9000000000015px;
+}
+.benefit-from {
+  position: relative;
+  line-height: 28px;
+}
+.benefit-from-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 36px 0 37px;
+}
+.off {
+  flex: 1;
+  position: relative;
+  line-height: 38px;
+  display: inline-block;
+  min-width: 118.7px;
+}
+.off-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 47px 0 48px;
+  font-size: 32px;
+  color: #6546bd;
+}
+.on-all-data {
+  align-self: stretch;
+  position: relative;
+  line-height: 28px;
+}
+.paragraphbackground {
+  width: 260px;
+  border-radius: 400px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 84px 23px 82px;
+  box-sizing: border-box;
+  gap: 0.5px;
+}
+.link-svg14 {
+  height: 20px;
+  width: 40px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: 27px;
+  left: -20px;
+  z-index: 1;
+}
+.background22,
+.section17 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.background22 {
+  flex: 1;
+  justify-content: center;
+  padding: 433.5px 20px;
+  position: relative;
+  background-image: url(/public/background4@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  min-width: 624px;
+  text-align: center;
+  font-size: 24px;
+  color: #000;
+}
+.section17 {
+  align-self: stretch;
+  background-color: #000;
+  justify-content: flex-start;
+  padding: 0 0 0 60px;
+  gap: 149.1px;
+  z-index: 6;
+  text-align: left;
+  font-size: 32px;
+  color: #fff;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 1725px) {
+  .section-inner5 {
+    flex: 1;
+  }
+  .section17 {
+    flex-wrap: wrap;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1325px) {
+  .background22 {
+    padding-top: 282px;
+    padding-bottom: 282px;
+    box-sizing: border-box;
+  }
+  .section17 {
+    gap: 75px;
+  }
+}
+@media screen and (max-width: 900px) {
+  .special-offer-for-container {
+    font-size: 26px;
+    line-height: 30px;
+  }
+  .section-inner5 {
+    padding-top: 265px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .off {
+    font-size: 26px;
+    line-height: 30px;
+  }
+  .background22 {
+    padding-top: 183px;
+    padding-bottom: 183px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .section17 {
+    gap: 37px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .benefit-from,
+  .special-offer-for-container {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .benefit-from {
+    line-height: 22px;
+  }
+  .off,
+  .on-all-data {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .on-all-data {
+    line-height: 22px;
+  }
+}

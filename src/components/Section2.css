@@ -1,0 +1,133 @@
+.image-icon23 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 960px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.link-svg13 {
+  position: absolute;
+  top: 1080px;
+  left: 940px;
+  width: 40px;
+  height: 20px;
+  z-index: 1;
+}
+.image-group {
+  height: 1127px;
+  width: 980px;
+  position: relative;
+  min-width: 980px;
+  max-width: 100%;
+}
+.app,
+.integration-into-a {
+  margin: 0;
+}
+.integration-into-a-container {
+  margin: 0;
+  position: relative;
+  font-size: 32px;
+  line-height: 38px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.lets-imagine-that,
+.seamlessly-integrate-nexusconn,
+.sharing-company-like {
+  display: block;
+}
+.lets-imagine-that-container {
+  margin: 0;
+  position: relative;
+  line-height: 27px;
+  padding-right: 0;
+}
+.connectivity-for-their,
+.gb-data-plan,
+.upon-arrival-at {
+  display: block;
+}
+.upon-arrival-at-container {
+  margin: 0;
+  align-self: stretch;
+  height: 81px;
+  position: relative;
+  line-height: 27px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  box-sizing: border-box;
+  padding-right: 12px;
+}
+.integration-into-a-car-sharing-parent {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 24px;
+}
+.integration-into-a-car-sharing-parent,
+.section-inner4,
+.section16 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.section-inner4 {
+  width: 751px;
+  flex-direction: column;
+  padding: 408px 0 0;
+  box-sizing: border-box;
+  min-width: 751.0000000000036px;
+}
+.section16 {
+  align-self: stretch;
+  background-color: #000;
+  flex-direction: row;
+  gap: 40px;
+  z-index: 5;
+  text-align: left;
+  font-size: 17.2px;
+  color: #fff;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 1725px) {
+  .image-group,
+  .section-inner4 {
+    flex: 1;
+  }
+  .section16 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1325px) {
+  .image-group {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 900px) {
+  .integration-into-a-container {
+    font-size: 26px;
+    line-height: 30px;
+  }
+  .section-inner4 {
+    padding-top: 265px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .section16 {
+    gap: 20px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .integration-into-a-container {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

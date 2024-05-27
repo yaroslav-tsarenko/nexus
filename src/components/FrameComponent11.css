@@ -1,0 +1,83 @@
+.how-do-i12,
+.on-my-android1 {
+  display: block;
+}
+.how-do-i-container15 {
+  margin: 0;
+  height: 50.4px;
+  flex: 1;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+}
+.link-heading-3137 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-36@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.my-esim-nexusconnectnet1,
+.network-is-displayed1,
+.should-i-do2 {
+  display: block;
+}
+.my-esim-nexusconnectnet-container1 {
+  margin: 0;
+  height: 75.6px;
+  flex: 1;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.link-heading-3-parent33,
+.link-heading-3138 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.link-heading-3138 {
+  flex-direction: row;
+  padding: 14.4px 5px 15px 0;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-332@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 2;
+  margin-top: -0.1px;
+}
+.link-heading-3-parent33 {
+  flex-direction: column;
+  text-align: left;
+  font-size: 21px;
+  color: #000;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 450px) {
+  .how-do-i-container15,
+  .my-esim-nexusconnectnet-container1 {
+    font-size: 17px;
+    line-height: 20px;
+  }
+}

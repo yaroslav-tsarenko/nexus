@@ -1,0 +1,2455 @@
+.horizontal-divider1 {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  background-color: #fff;
+  display: none;
+}
+.getting-started-with {
+  width: 444.7px;
+  position: relative;
+  line-height: 38.4px;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.device,
+.i-am-about {
+  display: block;
+}
+.i-am-about-container {
+  margin: 0;
+  height: 50.4px;
+  flex: 1;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+}
+.getting-started-with-nexusconn-parent,
+.link-heading-3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link-heading-3 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 14.4px 8px 15px 0;
+  background-image: url(/public/link--heading-3@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  font-size: 21px;
+}
+.getting-started-with-nexusconn-parent {
+  width: 685px;
+  flex-direction: column;
+  gap: 25.7px;
+  max-width: 100%;
+}
+.how-to-get,
+.link-heading-31 {
+  display: flex;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.how-to-get {
+  margin: 0;
+  width: 540.1px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  align-items: center;
+}
+.link-heading-31 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-31@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  debug_commit: bf4bc93;
+}
+.how-to-get1 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: inline-block;
+  max-width: 100%;
+}
+.link-heading-3-parent,
+.link-heading-32 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link-heading-32 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 14.4px 33px 15px 0;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-32@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+  z-index: 1;
+  margin-top: -0.1px;
+}
+.link-heading-3-parent {
+  width: 685px;
+  flex-direction: column;
+}
+.how-to-get2 {
+  margin: 0;
+  width: 513.7px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.link-heading-33 {
+  width: 685px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-33@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.how-to-get3,
+.windows-11-laptop {
+  display: block;
+}
+.how-to-get-container1 {
+  width: 100%;
+}
+.how-to-get-container {
+  margin: 0;
+  height: 50.4px;
+  width: 693.9px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+}
+.link-heading-34 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-34@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+}
+.device-equipped-with,
+.how-do-i {
+  display: block;
+}
+.how-do-i-container1 {
+  width: 100%;
+}
+.how-do-i-container {
+  margin: 0;
+  height: 50.4px;
+  width: 695.2px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 102%;
+}
+.link-heading-3-group,
+.link-heading-35 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link-heading-35 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-35@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+  z-index: 1;
+}
+.link-heading-3-group {
+  width: 685px;
+  flex-direction: column;
+}
+.how-do-i1,
+.laptop-or-tablet {
+  display: block;
+}
+.how-do-i-container3 {
+  width: 100%;
+}
+.how-do-i-container2 {
+  margin: 0;
+  height: 50.4px;
+  width: 695.2px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 102%;
+}
+.link-heading-36 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-36@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+}
+.i-do-not,
+.to-install-my {
+  display: block;
+}
+.i-do-not-container1 {
+  width: 100%;
+}
+.i-do-not-container {
+  margin: 0;
+  width: 694.2px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+}
+.link-heading-3-container,
+.link-heading-37 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link-heading-37 {
+  flex-direction: row;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-37@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+  z-index: 1;
+  margin-top: -0.1px;
+}
+.link-heading-3-container {
+  width: 685px;
+  flex-direction: column;
+}
+.i-do-not1,
+.iphone-to-install {
+  display: block;
+}
+.i-do-not-container2 {
+  margin: 0;
+  height: 50.4px;
+  flex: 1;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+}
+.link-heading-38 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 40px 15px 0;
+  background-image: url(/public/link--heading-38@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.how-to-reinstall,
+.windows-11-device {
+  display: block;
+}
+.how-to-reinstall-container1 {
+  width: 100%;
+}
+.how-to-reinstall-container {
+  margin: 0;
+  height: 50.4px;
+  width: 701.1px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 103%;
+}
+.link-heading-3-parent1,
+.link-heading-39 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link-heading-39 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-39@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+  z-index: 1;
+}
+.link-heading-3-parent1 {
+  width: 685px;
+  flex-direction: column;
+}
+.i-have-a,
+.on-it {
+  display: block;
+}
+.i-have-a-container1 {
+  width: 100%;
+}
+.i-have-a-container {
+  margin: 0;
+  height: 50.4px;
+  width: 702.8px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 103%;
+}
+.link-heading-310 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-310@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+  z-index: 2;
+}
+.i-have-a1,
+.profile-on-it {
+  display: block;
+}
+.i-have-a-container2 {
+  margin: 0;
+  height: 50.4px;
+  flex: 1;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.link-heading-3-parent2,
+.link-heading-311,
+.link-heading-312 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link-heading-311 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 14.4px 18px 15px 0;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-311@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+  z-index: 3;
+  margin-top: -0.1px;
+}
+.link-heading-3-parent2,
+.link-heading-312 {
+  width: 685px;
+  flex-direction: column;
+}
+.link-heading-312 {
+  border: 0;
+  background-color: transparent;
+  height: 81.4px;
+  width: auto;
+  outline: 0;
+  align-self: stretch;
+  flex-direction: row;
+  padding: 14.4px 0 14px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-34@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  font-family: "Open Sans";
+  font-weight: 600;
+  font-size: 21px;
+  color: #000;
+  z-index: 4;
+}
+.again,
+.how-can-i {
+  display: block;
+}
+.how-can-i-container {
+  margin: 0;
+  height: 50.4px;
+  flex: 1;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.link-heading-3-parent3,
+.link-heading-313 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link-heading-313 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-35@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+  z-index: 5;
+}
+.link-heading-3-parent3 {
+  width: 685px;
+  flex-direction: column;
+}
+.i-lost-my {
+  width: 571.1px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.link-heading-314 {
+  width: 685px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-312@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 6;
+}
+.how-can-i1,
+.i-do-not2 {
+  display: block;
+}
+.how-can-i-container2 {
+  width: 100%;
+}
+.how-can-i-container1 {
+  margin: 0;
+  height: 50.4px;
+  width: 696.4px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 102%;
+}
+.link-heading-315 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-313@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+}
+.i-have-several,
+.to-have-a {
+  display: block;
+}
+.i-have-several-container1 {
+  width: 100%;
+}
+.i-have-several-container {
+  margin: 0;
+  height: 50.4px;
+  width: 693.7px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+}
+.link-heading-3-parent4,
+.link-heading-316 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link-heading-316 {
+  flex-direction: row;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-314@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+  z-index: 1;
+  margin-top: -0.1px;
+}
+.link-heading-3-parent4 {
+  width: 685px;
+  flex-direction: column;
+}
+.how-can-i2,
+.use-it-again {
+  display: block;
+}
+.how-can-i-container3 {
+  margin: 0;
+  height: 50.4px;
+  flex: 1;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.link-heading-317 {
+  width: 685px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 16px 15px 0;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-315@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 2;
+}
+.how-can-i3,
+.when-i-do {
+  display: block;
+}
+.how-can-i-container4 {
+  margin: 0;
+  height: 50.4px;
+  flex: 1;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.link-heading-318 {
+  width: 685px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 4px 15px 0;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-3@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 3;
+}
+.how-can-i4,
+.to-use-it {
+  display: block;
+}
+.how-can-i-container5 {
+  margin: 0;
+  height: 50.4px;
+  flex: 1;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.link-heading-319 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 7px 15px 0;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-316@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+  z-index: 4;
+}
+.how-can-i5,
+.or-when-i {
+  display: block;
+}
+.how-can-i-container6 {
+  margin: 0;
+  height: 50.4px;
+  flex: 1;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.link-heading-3-parent5,
+.link-heading-320 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link-heading-320 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 14.4px 0 15px;
+  background-image: url(/public/link--heading-317@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 5;
+  margin-top: -0.1px;
+}
+.link-heading-3-parent5 {
+  width: 685px;
+  flex-direction: column;
+}
+.how-to-delete {
+  width: 512.5px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.link-heading-321 {
+  width: 685px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-318@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 6;
+}
+.how-to-delete1 {
+  margin: 0;
+  width: 572.2px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.link-heading-322 {
+  width: 685px;
+  flex-direction: row;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-319@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 7;
+}
+.frame-parent2,
+.link-heading-322,
+.link-heading-323 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link-heading-323 {
+  border: 0;
+  background-color: transparent;
+  height: 81.4px;
+  width: 685px;
+  outline: 0;
+  flex-direction: row;
+  padding: 14.4px 0 14px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-320@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  font-family: "Open Sans";
+  font-weight: 600;
+  font-size: 21px;
+  color: #000;
+}
+.frame-parent2 {
+  flex: 1;
+  overflow-x: auto;
+  flex-direction: column;
+  max-width: 100%;
+}
+.image-icon4 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.heading-22 {
+  width: 105.1px;
+  position: relative;
+  line-height: 33.6px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  min-width: 105.1px;
+}
+.heading-2-contact-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 0 28px;
+}
+.you-havent-found-the-answers {
+  display: block;
+}
+.faq {
+  text-decoration: underline;
+  color: #008fa4;
+}
+.span {
+  color: #000;
+}
+.to-your-questions-in-assistanc {
+  display: block;
+}
+.you-havent-found-container {
+  margin: 0;
+  height: 43.6px;
+  position: relative;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+}
+.you-havent-found-the-answers-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 20px;
+  font-size: 15.4px;
+}
+.contact-us {
+  flex: 1;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  text-transform: uppercase;
+  font-family: Roboto;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  min-width: 102.7px;
+}
+.border,
+.link-button,
+.link-button-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.link-button {
+  cursor: pointer;
+  border: 1px solid #6546bd;
+  padding: 5px 13px 11px 15px;
+  background-color: #6546bd;
+  width: 132.5px;
+  border-radius: 60px;
+  box-sizing: border-box;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.link-button:hover {
+  background-color: #8c6ee3;
+  border: 1px solid #8c6ee3;
+  box-sizing: border-box;
+}
+.border,
+.link-button-wrapper {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 20px;
+}
+.border {
+  flex: 1;
+  border: 1px solid #e0e0e0;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 1px 0 16px;
+  gap: 9.7px;
+}
+.border-wrapper,
+.frame-div,
+.frame-parent1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.border-wrapper {
+  height: 420.8px;
+  width: 325px;
+  flex-direction: column;
+  padding: 27.2px 0 0;
+  box-sizing: border-box;
+  min-width: 325px;
+  text-align: center;
+  font-size: 28px;
+}
+.frame-div,
+.frame-parent1 {
+  align-self: stretch;
+}
+.frame-parent1 {
+  flex-direction: row;
+  gap: 100px;
+  font-size: 21px;
+}
+.frame-div {
+  flex-direction: column;
+}
+.managing-your-nexusconnectnet {
+  width: 496.7px;
+  position: relative;
+  line-height: 38.4px;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.how-to-reset {
+  width: 549.6px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  align-items: center;
+}
+.how-can-i6,
+.how-to-reset,
+.link-heading-324 {
+  display: flex;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.link-heading-324 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-321@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  debug_commit: bf4bc93;
+}
+.how-can-i6 {
+  width: 440px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  align-items: center;
+}
+.link-heading-3-parent6,
+.link-heading-325 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+}
+.link-heading-325 {
+  flex-direction: row;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-322@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 1;
+  margin-top: -0.1px;
+}
+.link-heading-3-parent6 {
+  flex-direction: column;
+}
+.how-can-i7 {
+  width: 466.3px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  align-items: center;
+}
+.how-can-i7,
+.how-can-i8,
+.link-heading-326 {
+  display: flex;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.link-heading-326 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-323@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  debug_commit: bf4bc93;
+  z-index: 2;
+}
+.how-can-i8 {
+  width: 578.4px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  align-items: center;
+}
+.link-heading-327,
+.link-heading-328 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.link-heading-327 {
+  padding: 14.4px 0 15px;
+  background-image: url(/public/link--heading-324@3x.png);
+  max-width: 100%;
+  z-index: 3;
+}
+.link-heading-328 {
+  border: 0;
+  background-color: transparent;
+  height: 81.4px;
+  width: auto;
+  outline: 0;
+  padding: 14.4px 0 14px;
+  background-image: url(/public/link--heading-37@3x.png);
+  font-family: "Open Sans";
+  font-weight: 600;
+  font-size: 21px;
+  color: #000;
+}
+.how-can-i9,
+.link-heading-329 {
+  display: flex;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.how-can-i9 {
+  width: 384.7px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  align-items: center;
+}
+.link-heading-329 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-325@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  debug_commit: bf4bc93;
+  z-index: 1;
+}
+.how-can-i10 {
+  width: 580.3px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  align-items: center;
+}
+.how-can-i10,
+.how-to-delete2,
+.link-heading-330 {
+  display: flex;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.link-heading-330 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-326@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  debug_commit: bf4bc93;
+  z-index: 2;
+}
+.how-to-delete2 {
+  width: 331.5px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  align-items: center;
+}
+.frame-parent3,
+.link-heading-331,
+.managing-your-nexusconnectnet-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.link-heading-331 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-327@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  z-index: 3;
+}
+.frame-parent3,
+.managing-your-nexusconnectnet-parent {
+  flex-direction: column;
+}
+.frame-parent3 {
+  align-self: stretch;
+  font-size: 21px;
+}
+.managing-your-nexusconnectnet-parent {
+  width: 685px;
+  gap: 25.7px;
+}
+.buying-nexusconnectnet-esim {
+  width: 414.5px;
+  position: relative;
+  line-height: 38.4px;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.link-heading-332,
+.link-heading-333 {
+  border: 0;
+  background-color: transparent;
+  height: 81.4px;
+  width: auto;
+  outline: 0;
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 14px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-316@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  font-family: "Open Sans";
+  font-weight: 600;
+  font-size: 21px;
+  color: #000;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.link-heading-333 {
+  background-image: url(/public/link--heading-317@3x.png);
+  z-index: 1;
+}
+.how-can-i11,
+.windows-10-or {
+  display: block;
+}
+.how-can-i-container8 {
+  width: 100%;
+}
+.how-can-i-container7 {
+  margin: 0;
+  height: 50.4px;
+  width: 638.5px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.link-heading-334 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-328@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  debug_commit: bf4bc93;
+  z-index: 2;
+}
+.do-i-need,
+.link-heading-334,
+.link-heading-335 {
+  display: flex;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.do-i-need {
+  width: 462.9px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  align-items: center;
+}
+.link-heading-335 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-329@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  debug_commit: bf4bc93;
+  z-index: 3;
+}
+.i-purchased-the,
+.it {
+  display: block;
+}
+.i-purchased-the-container1 {
+  width: 100%;
+}
+.i-purchased-the-container {
+  margin: 0;
+  width: 697.1px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 102%;
+}
+.link-heading-336 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.3px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-36@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+  z-index: 4;
+}
+.i-paid-for,
+.what-should-i {
+  display: block;
+}
+.i-paid-for-container {
+  margin: 0;
+  height: 50.4px;
+  flex: 1;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.link-heading-3-parent8,
+.link-heading-337 {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link-heading-337 {
+  display: flex;
+  flex-direction: row;
+  padding: 14.4px 33px 15px 0;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-37@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+  z-index: 5;
+  margin-top: -0.1px;
+}
+.link-heading-3-parent8 {
+  flex-direction: column;
+  debug_commit: bf4bc93;
+}
+.how-to-get4,
+.link-heading-3-parent8,
+.link-heading-338 {
+  display: flex;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.how-to-get4 {
+  width: 557.2px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  align-items: center;
+}
+.link-heading-338 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-325@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  debug_commit: bf4bc93;
+  z-index: 6;
+}
+.buying-nexusconnectnet-esim-da-parent,
+.link-heading-3-parent7 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.link-heading-3-parent7 {
+  align-self: stretch;
+  font-size: 21px;
+}
+.buying-nexusconnectnet-esim-da-parent {
+  width: 685px;
+  gap: 25.7px;
+}
+.heading-23 {
+  position: relative;
+  line-height: 38.4px;
+  display: inline-block;
+  max-width: 100%;
+}
+.i-restored-my,
+.work-what-to {
+  margin: 0;
+}
+.i-restored-my-container1 {
+  width: 100%;
+}
+.i-restored-my-container {
+  width: 695.2px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 102%;
+}
+.link-heading-339,
+.resolve-an-issue {
+  display: flex;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.link-heading-339 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-3@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.resolve-an-issue {
+  margin: 0;
+  width: 588.9px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  align-items: center;
+}
+.link-heading-340,
+.link-heading-341 {
+  align-self: stretch;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.link-heading-340 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.3px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-330@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+  z-index: 1;
+}
+.link-heading-341 {
+  border: 0;
+  background-color: transparent;
+  height: 56.2px;
+  font-family: "Open Sans";
+  font-weight: 600;
+  font-size: 21px;
+  color: #000;
+  z-index: 2;
+  margin-top: -0.1px;
+}
+.link-heading-3-parent10 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.imessage-does-not {
+  flex: 1;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: inline-block;
+  max-width: 100%;
+}
+.frame-child,
+.link-heading-342 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.link-heading-342 {
+  flex-direction: row;
+  padding: 14.4px 32px 15px 0;
+  background-image: url(/public/link--heading-33@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.frame-child {
+  border: 0;
+  background-color: transparent;
+  height: 137.6px;
+  width: auto;
+  outline: 0;
+  flex-direction: column;
+  padding: 14.39999999999418px 0 16.60000000000582px;
+  font-family: "Open Sans";
+  font-weight: 600;
+  font-size: 21px;
+  color: #000;
+}
+.how-can-i12 {
+  flex: 1;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: inline-block;
+  max-width: 100%;
+}
+.link-heading-343 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 14px 15px 0;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-331@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.dont-have-any,
+.my-nexusconnectnet-esim {
+  display: block;
+}
+.my-nexusconnectnet-esim-container {
+  margin: 0;
+  height: 50.4px;
+  flex: 1;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+}
+.link-heading-344 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-315@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.but-i-cant,
+.mobile-data-is {
+  margin: 0;
+}
+.mobile-data-is-container {
+  height: 50.4px;
+  flex: 1;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.link-heading-345 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 15px 15px 0;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-3@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+  flex-shrink: 0;
+  z-index: 4;
+}
+.how-do-i2 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: inline-block;
+  max-width: 100%;
+}
+.link-heading-346 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.3px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-330@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+  z-index: 5;
+}
+.i-dont-have,
+.my-nexusconnectnet-esim1 {
+  display: block;
+}
+.my-nexusconnectnet-esim-container2 {
+  width: 100%;
+}
+.my-nexusconnectnet-esim-container1 {
+  margin: 0;
+  height: 50.4px;
+  width: 703.9px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 103%;
+}
+.link-heading-3-parent11,
+.link-heading-347 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.link-heading-347 {
+  flex-direction: row;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-311@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  debug_commit: bf4bc93;
+  z-index: 6;
+  margin-top: -0.1px;
+}
+.link-heading-3-parent11 {
+  flex-direction: column;
+}
+.my-nexusconnectnet-esim2,
+.should-i-do,
+.the-network-is {
+  display: block;
+}
+.my-nexusconnectnet-esim-container4 {
+  width: 100%;
+}
+.my-nexusconnectnet-esim-container3 {
+  margin: 0;
+  height: 75.6px;
+  width: 698.7px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 102%;
+}
+.link-heading-348 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-333@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+  flex-shrink: 0;
+  z-index: 7;
+}
+.link-heading-349 {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 56.2px;
+  font-family: "Open Sans";
+  font-weight: 600;
+  font-size: 21px;
+  color: #000;
+  z-index: 8;
+}
+.device-but-impossible,
+.mobile-data-is1 {
+  display: block;
+}
+.mobile-data-is-container2 {
+  width: 100%;
+}
+.mobile-data-is-container1 {
+  margin: 0;
+  height: 50.4px;
+  width: 627.6px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.link-heading-350 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-36@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+  z-index: 9;
+}
+.how-do-i3,
+.or-windows-11 {
+  margin: 0;
+}
+.how-do-i-container4 {
+  height: 50.4px;
+  flex: 1;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+}
+.link-heading-3-parent12,
+.link-heading-351 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.link-heading-351 {
+  flex-direction: row;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-37@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 10;
+  margin-top: -0.1px;
+}
+.link-heading-3-parent12 {
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.how-do-i4,
+.or-windows-111 {
+  display: block;
+}
+.how-do-i-container5 {
+  margin: 0;
+  height: 50.4px;
+  flex: 1;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+}
+.link-heading-352 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 8px 15px 0;
+  background-image: url(/public/link--heading-38@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 11;
+}
+.device-but-i,
+.my-nexusconnectnet-esim3 {
+  display: block;
+}
+.my-nexusconnectnet-esim-container5 {
+  margin: 0;
+  height: 50.4px;
+  flex: 1;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+}
+.link-heading-353 {
+  flex-direction: row;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-39@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+  z-index: 12;
+}
+.link-heading-3-parent13,
+.link-heading-353,
+.link-heading-354 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link-heading-3-parent13 {
+  flex-direction: column;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.link-heading-354 {
+  border: 0;
+  background-color: transparent;
+  height: 81.4px;
+  width: auto;
+  outline: 0;
+  flex-direction: row;
+  padding: 14.4px 0 14px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-310@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  font-family: "Open Sans";
+  font-weight: 600;
+  font-size: 21px;
+  color: #000;
+  z-index: 13;
+}
+.heading-2-facing-connection-parent,
+.link-heading-3-parent9 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.link-heading-3-parent9 {
+  align-self: stretch;
+  font-size: 21px;
+}
+.heading-2-facing-connection-parent {
+  width: 685px;
+  gap: 25.7px;
+  font-size: 30.9px;
+}
+.asking-other-questions,
+.service {
+  margin: 0;
+}
+.asking-other-questions-container1 {
+  width: 100%;
+}
+.asking-other-questions-container,
+.can-i-make {
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.asking-other-questions-container {
+  width: 581.7px;
+  height: 76.8px;
+  line-height: 38.4px;
+}
+.can-i-make {
+  margin: 0;
+  width: 516.2px;
+  line-height: 25.2px;
+  font-weight: 600;
+}
+.link-heading-355,
+.link-heading-356 {
+  align-self: stretch;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.link-heading-355 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-334@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+}
+.link-heading-356 {
+  border: 0;
+  background-color: transparent;
+  height: 56.2px;
+  font-family: "Open Sans";
+  font-weight: 600;
+  font-size: 21px;
+  color: #000;
+}
+.how-to-use {
+  width: 411.3px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.link-heading-357 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-312@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  debug_commit: bf4bc93;
+  z-index: 1;
+}
+.link-heading-357,
+.link-heading-358,
+.what-is-a {
+  display: flex;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.what-is-a {
+  margin: 0;
+  width: 511px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  align-items: center;
+}
+.link-heading-358 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-335@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  debug_commit: bf4bc93;
+}
+.connectivity,
+.how-to-use1 {
+  display: block;
+}
+.how-to-use-container1 {
+  width: 100%;
+}
+.how-to-use-container,
+.link-heading-359 {
+  display: flex;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.how-to-use-container {
+  margin: 0;
+  height: 50.4px;
+  width: 608px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  align-items: center;
+}
+.link-heading-359 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-328@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  debug_commit: bf4bc93;
+  z-index: 1;
+}
+.connectivity1,
+.how-to-use2 {
+  display: block;
+}
+.how-to-use-container3 {
+  width: 100%;
+}
+.how-to-use-container2 {
+  margin: 0;
+  height: 50.4px;
+  width: 636.7px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.link-heading-360 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-336@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+  z-index: 2;
+  margin-top: -0.1px;
+}
+.how-to-use3,
+.share-the-nexusconnectnet {
+  display: block;
+}
+.how-to-use-container4 {
+  margin: 0;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+}
+.link-heading-3-parent15,
+.link-heading-361 {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+  debug_commit: bf4bc93;
+}
+.link-heading-361 {
+  display: flex;
+  flex-direction: row;
+  padding: 14.4px 25px 15px 0;
+  background-image: url(/public/link--heading-337@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  flex-shrink: 0;
+  z-index: 3;
+  margin-top: -0.1px;
+}
+.link-heading-3-parent15 {
+  flex-direction: column;
+}
+.i-did-not,
+.link-heading-3-parent15,
+.link-heading-362 {
+  display: flex;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.i-did-not {
+  margin: 0;
+  width: 518.2px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  align-items: center;
+}
+.link-heading-362 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-338@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  debug_commit: bf4bc93;
+  z-index: 4;
+}
+.my-device-does {
+  margin: 0;
+  width: 628.8px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  align-items: center;
+}
+.how-can-i13,
+.link-heading-363,
+.my-device-does {
+  display: flex;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.link-heading-363 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-325@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  debug_commit: bf4bc93;
+}
+.how-can-i13 {
+  margin: 0;
+  width: 428.5px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  align-items: center;
+}
+.link-heading-364 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-326@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  debug_commit: bf4bc93;
+  cursor: pointer;
+  z-index: 1;
+}
+.how-to-set,
+.link-heading-364,
+.link-heading-365 {
+  display: flex;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.how-to-set {
+  width: 353.3px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  align-items: center;
+}
+.link-heading-365 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-327@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  debug_commit: bf4bc93;
+  z-index: 2;
+}
+.the-nexusconnectnet-antenna {
+  margin: 0;
+  width: 607.5px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.link-heading-3-parent16,
+.link-heading-366 {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+  debug_commit: bf4bc93;
+}
+.link-heading-366 {
+  display: flex;
+  flex-direction: row;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-339@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 3;
+  margin-top: -0.1px;
+}
+.link-heading-3-parent16 {
+  flex-direction: column;
+}
+.how-can-i14,
+.link-heading-3-parent16,
+.link-heading-367 {
+  display: flex;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.how-can-i14 {
+  width: 577.1px;
+  position: relative;
+  line-height: 25.2px;
+  font-weight: 600;
+  align-items: center;
+}
+.link-heading-367 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.4px 0 15px;
+  box-sizing: border-box;
+  background-image: url(/public/link--heading-340@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  debug_commit: bf4bc93;
+  z-index: 4;
+}
+.asking-other-questions-about-n-parent,
+.link-heading-3-parent14 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.link-heading-3-parent14 {
+  align-self: stretch;
+  font-size: 21px;
+}
+.asking-other-questions-about-n-parent {
+  width: 685px;
+  gap: 25.7px;
+}
+.background2 {
+  align-self: stretch;
+  background-color: #fff;
+  padding: 47.3px 405px 140.3px;
+  box-sizing: border-box;
+  gap: 47.3px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+  z-index: 2;
+  margin-top: -446px;
+  text-align: left;
+  font-size: 30.8px;
+  color: #000;
+  font-family: "Open Sans";
+}
+.background2,
+.faqdesktop,
+.frame-main {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-main {
+  align-self: stretch;
+  max-width: 100%;
+}
+.faqdesktop {
+  width: 100%;
+  position: relative;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1500px) {
+  .frame-parent2 {
+    min-width: 100%;
+  }
+  .border-wrapper {
+    flex: 1;
+  }
+  .frame-parent1 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1200px) {
+  .frame-parent1 {
+    gap: 50px;
+  }
+  .background2 {
+    padding: 47.30000000000291px 202px 38px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 825px) {
+  .getting-started-with {
+    font-size: 25px;
+    line-height: 31px;
+  }
+  .frame-parent1 {
+    gap: 25px;
+  }
+  .asking-other-questions-container,
+  .buying-nexusconnectnet-esim,
+  .heading-23,
+  .managing-your-nexusconnectnet {
+    font-size: 25px;
+    line-height: 31px;
+  }
+  .background2 {
+    gap: 24px;
+    padding-left: 101px;
+    padding-right: 101px;
+    padding-bottom: 25px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .getting-started-with {
+    font-size: 18px;
+    line-height: 23px;
+  }
+  .how-can-i-container,
+  .how-can-i-container1,
+  .how-can-i-container3,
+  .how-can-i-container4,
+  .how-can-i-container5,
+  .how-can-i-container6,
+  .how-do-i-container,
+  .how-do-i-container2,
+  .how-to-delete,
+  .how-to-delete1,
+  .how-to-get,
+  .how-to-get-container,
+  .how-to-get1,
+  .how-to-get2,
+  .how-to-reinstall-container,
+  .i-am-about-container,
+  .i-do-not-container,
+  .i-do-not-container2,
+  .i-have-a-container,
+  .i-have-a-container2,
+  .i-have-several-container,
+  .i-lost-my {
+    font-size: 17px;
+    line-height: 20px;
+  }
+  .heading-22 {
+    font-size: 22px;
+    line-height: 27px;
+  }
+  .managing-your-nexusconnectnet {
+    font-size: 18px;
+    line-height: 23px;
+  }
+  .how-can-i10,
+  .how-can-i6,
+  .how-can-i7,
+  .how-can-i8,
+  .how-can-i9,
+  .how-to-delete2,
+  .how-to-reset {
+    font-size: 17px;
+    line-height: 20px;
+  }
+  .buying-nexusconnectnet-esim {
+    font-size: 18px;
+    line-height: 23px;
+  }
+  .do-i-need,
+  .how-can-i-container7,
+  .how-to-get4,
+  .i-paid-for-container,
+  .i-purchased-the-container {
+    font-size: 17px;
+    line-height: 20px;
+  }
+  .heading-23 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .how-can-i12,
+  .how-do-i-container4,
+  .how-do-i-container5,
+  .how-do-i2,
+  .i-restored-my-container,
+  .imessage-does-not,
+  .mobile-data-is-container,
+  .mobile-data-is-container1,
+  .my-nexusconnectnet-esim-container,
+  .my-nexusconnectnet-esim-container1,
+  .my-nexusconnectnet-esim-container3,
+  .my-nexusconnectnet-esim-container5,
+  .resolve-an-issue {
+    font-size: 17px;
+    line-height: 20px;
+  }
+  .asking-other-questions-container {
+    font-size: 18px;
+    line-height: 23px;
+  }
+  .can-i-make,
+  .how-can-i13,
+  .how-can-i14,
+  .how-to-set,
+  .how-to-use,
+  .how-to-use-container,
+  .how-to-use-container2,
+  .how-to-use-container4,
+  .i-did-not,
+  .my-device-does,
+  .the-nexusconnectnet-antenna,
+  .what-is-a {
+    font-size: 17px;
+    line-height: 20px;
+  }
+}

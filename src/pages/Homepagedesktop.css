@@ -1,0 +1,582 @@
+.gradient-icon {
+  position: absolute;
+  top: 0;
+  left: 372.5px;
+  width: 1920px;
+  height: 1082px;
+  object-fit: contain;
+  z-index: 1;
+}
+.image {
+  margin-left: -372.5px;
+  height: 1215px;
+  width: 2304px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 120%;
+}
+.container,
+.gradient {
+  width: 1920px;
+  max-width: 100%;
+}
+.container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 1127px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.gradient {
+  height: 985.7px;
+  position: relative;
+  background: radial-gradient(50% 50%at 50% 50%, #555, #000 80%);
+  display: none;
+}
+.heading-2 {
+  position: relative;
+  line-height: 48px;
+  z-index: 2;
+}
+.heading-2-get-started-wrapper {
+  width: 594px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 0 0 1px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.gradient-parent,
+.heading-3 {
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.heading-3 {
+  width: 593.2px;
+  position: relative;
+  font-size: 31.9px;
+  line-height: 38px;
+  color: #fff;
+  justify-content: center;
+  z-index: 2;
+}
+.gradient-parent {
+  position: absolute;
+  top: 1127px;
+  left: 0;
+  background: radial-gradient(50% 50%at 50% 50%, #555, #000 80%);
+  width: 100%;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 60px 20px 835px;
+  box-sizing: border-box;
+  gap: 5px;
+  min-height: 986px;
+  z-index: 1;
+  text-align: center;
+  font-size: 35.9px;
+  color: #6546bd;
+  font-family: "Open Sans";
+}
+.image-icon {
+  position: absolute;
+  top: 1157px;
+  left: -13.6px;
+  width: 1947.1px;
+  height: 1078px;
+  object-fit: cover;
+  z-index: 3;
+}
+.does-your-device,
+.heading-21 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 4;
+}
+.heading-21 {
+  top: 1455px;
+  left: 876.7px;
+  font-size: 29.9px;
+  line-height: 46px;
+  color: #6546bd;
+  width: 165px;
+  height: 46px;
+}
+.does-your-device {
+  top: 1517px;
+  left: 751.1px;
+  font-size: 27.9px;
+  line-height: 34px;
+}
+.svg-icon {
+  height: 52px;
+  width: 45.3px;
+  position: relative;
+  object-fit: cover;
+}
+.svg-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.select-a-android {
+  width: 151px;
+  position: relative;
+  line-height: 27px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.image-icon1 {
+  width: 8px;
+  height: 10px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.container2,
+.image-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 8px;
+}
+.container2 {
+  height: 27px;
+  flex: 1;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 8.5px 7px 0.5px 0;
+  box-sizing: border-box;
+  gap: 20px;
+  z-index: 1;
+}
+.options,
+.options-wrapper {
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.options {
+  align-self: stretch;
+  border-radius: 2.5px;
+  background-color: #fff;
+  border: 1px solid #ced4da;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 1px 0;
+  debug_commit: bf4bc93;
+}
+.options-wrapper {
+  margin-left: -10015px;
+  width: 230px;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 0 0 4px;
+  box-sizing: border-box;
+}
+.form-select-drop-arrowsvg-icon {
+  height: 7px;
+  width: 13px;
+  position: absolute;
+  margin: 0 !important;
+  right: 20px;
+  bottom: 18.3px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.select-a-android1 {
+  position: relative;
+  line-height: 27px;
+}
+.container3 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 33px 0.5px 0;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  z-index: 1;
+  color: #373737;
+}
+.background {
+  align-self: stretch;
+}
+.container-group,
+.container-parent,
+.container1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.container1 {
+  width: 290px;
+  flex-direction: column;
+  padding: 0 30px 18px;
+  box-sizing: border-box;
+  gap: 25px;
+  min-width: 290px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.container-group,
+.container-parent {
+  flex-direction: row;
+  max-width: 100%;
+  row-gap: 20px;
+}
+.container-group {
+  flex: 1;
+  min-width: 377px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.container-parent {
+  top: 1611px;
+  left: 525px;
+  width: 869.9px;
+  text-align: left;
+  color: #495057;
+}
+.container-parent,
+.link-view,
+.svg-icon1 {
+  position: absolute;
+  z-index: 4;
+}
+.link-view {
+  top: 1787px;
+  left: 777.2px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 366px;
+  height: 24px;
+}
+.svg-icon1 {
+  top: 1482.3px;
+  left: 1132.4px;
+  width: 11px;
+  height: 18.4px;
+  object-fit: contain;
+}
+.best,
+.logo-esim-whitesvg-icon {
+  position: absolute;
+  top: 699.5px;
+  z-index: 2;
+}
+.best {
+  margin: 0;
+  left: 238.9px;
+  font-size: inherit;
+  line-height: 38px;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  width: 67.5px;
+  height: 38px;
+  min-width: 67.5px;
+}
+.logo-esim-whitesvg-icon {
+  left: 308.4px;
+  width: 76px;
+  height: 45px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.data-plans,
+.to-stay-connected {
+  position: absolute;
+  line-height: 38px;
+  display: flex;
+  align-items: center;
+  z-index: 2;
+}
+.data-plans {
+  margin: 0;
+  top: 699.5px;
+  left: 386.4px;
+  font-size: 31px;
+  font-weight: 400;
+  font-family: inherit;
+  width: 158.7px;
+  height: 38px;
+}
+.to-stay-connected {
+  top: 754.5px;
+  left: 192px;
+  font-size: 29.9px;
+}
+.frame-parent,
+.image-icon2 {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  max-width: 100%;
+}
+.frame-parent {
+  height: 1082px;
+  text-align: left;
+  font-size: 32px;
+  color: #fff;
+  font-family: "Open Sans";
+}
+.image-icon2 {
+  height: 100%;
+  margin: 0 !important;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.install-the-nexusconnectnet,
+.not-travelling-yet-get {
+  margin: 0;
+  position: relative;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+  z-index: 1;
+}
+.not-travelling-yet-get {
+  width: 509.7px;
+  font-size: inherit;
+  line-height: 48px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.install-the-nexusconnectnet {
+  width: 639.5px;
+  font-size: 18px;
+  line-height: 27px;
+}
+.section,
+.section1 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.section {
+  align-self: stretch;
+  background-color: #fff;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 344px 20px 344.3px 130px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 19.5px;
+  min-height: 1063px;
+  z-index: 4;
+}
+.section1 {
+  width: 1920px;
+  background-color: #000;
+  overflow-x: auto;
+  flex-direction: row;
+  justify-content: flex-start;
+  z-index: 5;
+}
+.logo-esim-whitesvg-icon1,
+.youtube-play-iconpng {
+  height: 120px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.youtube-play-iconpng {
+  width: 120px;
+  display: none;
+}
+.logo-esim-whitesvg-icon1 {
+  width: 202.7px;
+}
+.forget-sim-cards {
+  margin: 0;
+  width: 879.6px;
+  position: relative;
+  font-size: inherit;
+  line-height: 90px;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.background1,
+.section2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.background1 {
+  flex: 1;
+  flex-direction: column;
+  padding: 340px 20px 287px 134px;
+  box-sizing: border-box;
+  gap: 46px;
+  background-image: url(/public/background@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 1;
+}
+.section2 {
+  align-self: stretch;
+  background-color: gray;
+  overflow: hidden;
+  flex-direction: row;
+  z-index: 6;
+  font-size: 80px;
+}
+.homepagedesktop,
+.section-parent {
+  width: 100%;
+  color: #fff;
+  font-family: "Open Sans";
+}
+.section-parent {
+  position: absolute;
+  top: 2190px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+  text-align: left;
+  font-size: 40px;
+}
+.homepagedesktop {
+  height: 6452px;
+  position: relative;
+  background: linear-gradient(#000, #000), #fff;
+  overflow-y: auto;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: 18px;
+}
+@media screen and (max-width: 1450px) {
+  .background1 {
+    padding-left: 67px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 975px) {
+  .heading-2 {
+    font-size: 29px;
+    line-height: 38px;
+  }
+  .heading-3 {
+    font-size: 26px;
+    line-height: 30px;
+  }
+  .container1 {
+    flex: 1;
+  }
+  .container-parent {
+    flex-wrap: wrap;
+  }
+  .best,
+  .data-plans {
+    font-size: 26px;
+    line-height: 30px;
+  }
+  .data-plans {
+    font-size: 25px;
+  }
+  .frame-parent {
+    height: auto;
+    min-height: 1082;
+  }
+  .not-travelling-yet-get {
+    font-size: 32px;
+    line-height: 38px;
+  }
+  .section {
+    padding-left: 65px;
+    box-sizing: border-box;
+  }
+  .forget-sim-cards {
+    font-size: 40px;
+    line-height: 54px;
+  }
+  .background1 {
+    gap: 23px;
+    padding-left: 33px;
+    box-sizing: border-box;
+  }
+  .homepagedesktop {
+    height: auto;
+    min-height: 6452;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-2 {
+    font-size: 22px;
+    line-height: 29px;
+  }
+  .heading-3 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .heading-21 {
+    font-size: 24px;
+    line-height: 37px;
+  }
+  .does-your-device {
+    font-size: 22px;
+    line-height: 27px;
+  }
+  .container-group {
+    flex-wrap: wrap;
+    min-width: 100%;
+  }
+  .best,
+  .data-plans {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .to-stay-connected {
+    font-size: 24px;
+    line-height: 30px;
+  }
+  .not-travelling-yet-get {
+    font-size: 24px;
+    line-height: 29px;
+  }
+  .section {
+    padding-left: 20px;
+    box-sizing: border-box;
+  }
+  .forget-sim-cards {
+    font-size: 24px;
+    line-height: 36px;
+  }
+}

@@ -1,0 +1,138 @@
+.image-icon21 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 960px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.link-svg11 {
+  position: absolute;
+  top: 1080px;
+  left: 940px;
+  width: 40px;
+  height: 20px;
+  z-index: 1;
+}
+.heading-29,
+.image-parent {
+  position: relative;
+  max-width: 100%;
+}
+.image-parent {
+  height: 1127px;
+  width: 980px;
+  min-width: 980px;
+}
+.heading-29 {
+  font-size: 31.9px;
+  line-height: 38px;
+  display: inline-block;
+}
+.for-16-euros,
+.lets-say-americans,
+.offer-them-an,
+.travelers-confirm-their {
+  display: block;
+}
+.lets-say-americans-container {
+  margin: 0;
+  align-self: stretch;
+  height: 108px;
+  position: relative;
+  line-height: 27px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  box-sizing: border-box;
+  padding-right: 0;
+}
+.stay-enabling-them,
+.surroundings,
+.this-seamless-integration {
+  display: block;
+}
+.this-seamless-integration-container1 {
+  width: 100%;
+}
+.this-seamless-integration-container {
+  margin: 0;
+  width: 742px;
+  height: 81px;
+  position: relative;
+  line-height: 27px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+  box-sizing: border-box;
+  padding-right: 20px;
+}
+.heading-2-enhanced-booking-e-parent {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 23.8px;
+}
+.heading-2-enhanced-booking-e-parent,
+.section-inner2,
+.section14 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.section-inner2 {
+  width: 752.2px;
+  flex-direction: column;
+  padding: 414px 0 0;
+  box-sizing: border-box;
+  min-width: 752.2000000000007px;
+}
+.section14 {
+  align-self: stretch;
+  background-color: #000;
+  flex-direction: row;
+  gap: 40px;
+  z-index: 3;
+  text-align: left;
+  font-size: 17.2px;
+  color: #fff;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 1725px) {
+  .image-parent,
+  .section-inner2 {
+    flex: 1;
+  }
+  .section14 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1325px) {
+  .image-parent {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 900px) {
+  .heading-29 {
+    font-size: 26px;
+    line-height: 30px;
+  }
+  .section-inner2 {
+    padding-top: 269px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .section14 {
+    gap: 20px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-29 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

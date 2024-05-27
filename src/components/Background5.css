@@ -1,0 +1,159 @@
+.apis-integration,
+.nexusconnectnet-wholesale-prog {
+  align-self: stretch;
+  position: relative;
+  line-height: 38px;
+}
+.apis-integration {
+  font-size: 17.2px;
+  line-height: 27px;
+  color: #fff;
+}
+.nexusconnectnet-wholesale-prog-parent {
+  width: 375.7px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 5px;
+  max-width: 100%;
+}
+.background-child {
+  width: 672px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.screen-laptop-aurigapng-icon {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 4px;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.sim-management-efficient-feet-icon {
+  width: 497.3px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  max-width: 100%;
+  z-index: 1;
+}
+.screen-laptop-aurigapng-parent {
+  width: 672px;
+  justify-content: center;
+  padding: 73.9px 20px 52.2px;
+  box-sizing: border-box;
+  position: relative;
+  max-width: 100%;
+}
+.background-inner1,
+.frame-parent63,
+.frame-parent64,
+.screen-laptop-aurigapng-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.frame-parent64 {
+  flex: 1;
+  justify-content: space-between;
+  min-width: 148px;
+  gap: 20px;
+}
+.background-inner1,
+.frame-parent63 {
+  justify-content: center;
+  max-width: 100%;
+}
+.frame-parent63 {
+  width: 428.9px;
+  gap: 46.4px;
+}
+.background-inner1 {
+  width: 672px;
+  padding: 0 20px 0 26px;
+  box-sizing: border-box;
+  font-size: 18px;
+  color: #fff;
+}
+.link-svg8 {
+  width: 40px;
+  height: 20px;
+  position: absolute;
+  margin: 0 !important;
+  right: -20px;
+  bottom: 27px;
+  z-index: 2;
+}
+.background19 {
+  flex: 1;
+  background-color: #000;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 237.2px 0 237.7px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 42px;
+  min-width: 624px;
+  max-width: 100%;
+  text-align: center;
+  font-size: 31.9px;
+  color: #6546bd;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 1725px) {
+  .background19 {
+    flex: 1;
+  }
+}
+@media screen and (max-width: 1325px) {
+  .background19 {
+    padding-top: 154px;
+    padding-bottom: 155px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .nexusconnectnet-wholesale-prog {
+    font-size: 26px;
+    line-height: 30px;
+  }
+  .background19 {
+    gap: 21px;
+    padding-top: 100px;
+    padding-bottom: 101px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .nexusconnectnet-wholesale-prog {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .screen-laptop-aurigapng-parent {
+    padding-top: 48px;
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+  .frame-parent63 {
+    flex-wrap: wrap;
+    gap: 23px;
+  }
+}

@@ -1,0 +1,360 @@
+.connectnet2,
+.nexus2 {
+  position: relative;
+  letter-spacing: 0.36em;
+  line-height: 19px;
+  text-transform: uppercase;
+}
+.nexus2 {
+  margin: 0;
+  align-self: stretch;
+  font-size: inherit;
+  font-weight: 800;
+  font-family: inherit;
+}
+.connectnet2 {
+  font-size: 18.5px;
+}
+.nexus-container {
+  width: 181.8px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 14.2px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.best-mvno-2023svg-fill1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  display: none;
+}
+.best-mvno-2023svg1 {
+  align-self: stretch;
+  height: 126.7px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.best-mvno-2023svg-container {
+  width: 124px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16px 0 0;
+  box-sizing: border-box;
+}
+.about-us1 {
+  position: relative;
+  line-height: 28px;
+  display: inline-block;
+  min-width: 97px;
+}
+.nexusconnectnet-app1,
+.nexusconnectnet-in-the1,
+.nexusconnectnet-network-partne1,
+.nexusconnectnet-story1,
+.nexusconnectnetcom1 {
+  position: relative;
+  line-height: 22px;
+  font-weight: 300;
+}
+.container31,
+.list3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.list3 {
+  padding: 3px 0;
+  gap: 6px;
+  font-size: 16px;
+  color: #d3d3d3;
+}
+.container31 {
+  padding: 0 15px 24px;
+  gap: 8px;
+}
+.get-in-touch1 {
+  position: relative;
+  line-height: 28px;
+}
+.item-link10,
+.item-link11,
+.item-link12 {
+  position: relative;
+  line-height: 22px;
+  font-weight: 300;
+}
+.item-link13 {
+  display: inline-block;
+  min-width: 117px;
+}
+.item-link13,
+.item-link14 {
+  position: relative;
+  line-height: 22px;
+  font-weight: 300;
+}
+.container32,
+.list4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.list4 {
+  align-self: stretch;
+  padding: 3px 0;
+  gap: 6px;
+  font-size: 16px;
+  color: #d3d3d3;
+}
+.container32 {
+  flex: 1;
+  padding: 0 15px 24px;
+  box-sizing: border-box;
+  gap: 8px;
+  min-width: 192px;
+  font-size: 23.3px;
+}
+.assistance1,
+.list-item1 {
+  position: relative;
+  line-height: 28px;
+  display: inline-block;
+  min-width: 113.1px;
+}
+.list-item1 {
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 300;
+  color: #d3d3d3;
+  text-decoration: none;
+  min-width: 87px;
+}
+.container-parent6,
+.paragraph1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.paragraph1 {
+  flex: 1;
+  flex-direction: column;
+  padding: 0 15px 139px;
+  gap: 11px;
+  min-width: 192px;
+  min-height: 200px;
+}
+.container-parent6 {
+  width: 892px;
+  flex-direction: row;
+  padding: 0 7px 0 0;
+  row-gap: 20px;
+  max-width: 100%;
+}
+.link-ubigis-facebook-accoun1,
+.link-ubigis-instagram-accou1,
+.link-ubigis-twitter-account1,
+.link-ubigis-youtube-account1 {
+  width: 40px;
+  height: 40px;
+  position: relative;
+  border-radius: 30px;
+}
+.frame-wrapper5,
+.link-ubigis-facebook-accoun-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link-ubigis-facebook-accoun-group {
+  gap: 10px;
+}
+.frame-wrapper5 {
+  padding: 5px 0 0;
+}
+.frame-parent31,
+.frame-parent32 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent32 {
+  justify-content: flex-start;
+  gap: 85.5px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  text-align: left;
+  font-size: 23.1px;
+}
+.frame-parent31 {
+  width: 1739.9px;
+  justify-content: space-between;
+  gap: 20px;
+}
+.horizontal-divider2 {
+  width: 1740px;
+  height: 1px;
+  position: relative;
+  background-color: #404040;
+  max-width: 100%;
+}
+.item-link15,
+.item-link16,
+.item-link17 {
+  position: relative;
+  line-height: 22px;
+  font-weight: 300;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.item-link15 {
+  flex: 1;
+  min-width: 92px;
+}
+.item-link16,
+.item-link17 {
+  min-width: 86.1px;
+}
+.item-link17 {
+  flex: 1;
+  min-width: 88px;
+}
+.list5 {
+  width: 421.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 19px 0 0;
+  box-sizing: border-box;
+  gap: 19.2px;
+  max-width: 100%;
+}
+.logo-nttpng-icon1,
+.nexusconnectnet-20241 {
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.nexusconnectnet-20241 {
+  margin: 0;
+  flex: 1;
+  line-height: 22px;
+  font-weight: 300;
+  display: inline-block;
+  min-width: 243px;
+  max-width: 100%;
+}
+.logo-nttpng-icon1 {
+  height: 23px;
+  width: 60px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.footer1,
+.list-group,
+.nexusconnectnet-2024-ltd-a-group {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.nexusconnectnet-2024-ltd-a-group {
+  width: 450.6px;
+  justify-content: flex-start;
+  gap: 6.8px;
+  font-size: 14px;
+  color: #fff;
+  font-family: Roboto;
+}
+.footer1,
+.list-group {
+  width: 1740px;
+  justify-content: space-between;
+  gap: 20px;
+  text-align: left;
+  font-size: 16px;
+  color: #d3d3d3;
+}
+.footer1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #000;
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 60px 20px 78px;
+  box-sizing: border-box;
+  gap: 22px;
+  height: 100%;
+  z-index: 9;
+  text-align: center;
+  font-size: 37px;
+  color: #fff;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 1875px) {
+  .frame-parent31 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1450px) {
+  .frame-parent32 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 975px) {
+  .nexus2 {
+    font-size: 30px;
+    line-height: 15px;
+  }
+  .container-parent6 {
+    flex-wrap: wrap;
+  }
+  .frame-parent32 {
+    gap: 43px;
+  }
+  .list-group {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 450px) {
+  .nexus2 {
+    font-size: 22px;
+    line-height: 11px;
+  }
+  .about-us1 {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .assistance1,
+  .get-in-touch1 {
+    font-size: 19px;
+    line-height: 22px;
+  }
+  .assistance1 {
+    font-size: 18px;
+  }
+  .frame-parent32 {
+    gap: 21px;
+  }
+  .list5,
+  .nexusconnectnet-2024-ltd-a-group {
+    flex-wrap: wrap;
+  }
+}

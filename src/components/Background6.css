@@ -1,0 +1,123 @@
+.image-icon29 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.assistance2 {
+  position: absolute;
+  top: 307.1px;
+  left: 852px;
+  line-height: 60px;
+  font-weight: 600;
+  display: none;
+  align-items: center;
+  width: 291px;
+  height: 60px;
+}
+.answers-solutions,
+.nexusconnectnet-esim-services,
+.your-questions-while {
+  margin: 0;
+}
+.answers-solutions-container1 {
+  width: 100%;
+}
+.answers-solutions-container {
+  position: absolute;
+  top: 367.1px;
+  left: 852px;
+  font-size: 38.3px;
+  line-height: 48px;
+  display: flex;
+  align-items: center;
+  width: 476.8px;
+  height: 144px;
+  z-index: 1;
+}
+.your-search-nexusconnectnet1 {
+  height: 24px;
+  width: 271.4px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.input12 {
+  flex: 1;
+  justify-content: flex-start;
+  padding: 2px 30px 3px;
+  background-image: url(/public/input@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.background25,
+.form1,
+.input12 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.form1 {
+  width: 1110px;
+  border-bottom: 1px solid #e3e3e3;
+  justify-content: flex-start;
+  padding: 0 0 9px;
+}
+.background25 {
+  position: absolute;
+  top: 306px;
+  left: 0;
+  background-color: #fff;
+  width: 100%;
+  justify-content: center;
+  padding: 30px 20px 0;
+  z-index: 2;
+  font-size: 17.2px;
+  color: #8a8a8a;
+}
+.background24 {
+  align-self: stretch;
+  height: 823px;
+  position: relative;
+  background-color: #000;
+  overflow: hidden;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+  margin-top: -446px;
+  text-align: left;
+  font-size: 50px;
+  color: #fff;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 825px) {
+  .assistance2 {
+    font-size: 40px;
+    line-height: 48px;
+  }
+  .answers-solutions-container {
+    font-size: 31px;
+    line-height: 38px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .assistance2 {
+    font-size: 30px;
+    line-height: 36px;
+  }
+  .answers-solutions-container {
+    font-size: 23px;
+    line-height: 29px;
+  }
+}

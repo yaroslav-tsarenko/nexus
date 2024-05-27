@@ -1,0 +1,233 @@
+.heading-27 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 38px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.heading-2-where-do-you-need-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 68px 7px 70px;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: 32px;
+}
+.backgroundborder2,
+.backgroundborder3 {
+  height: 44px;
+  font-family: "Open Sans";
+  font-size: 18px;
+  color: #373737;
+}
+.backgroundborder2 {
+  width: 352px;
+  max-width: 100%;
+}
+.backgroundborder3 {
+  width: 124px;
+}
+.go {
+  position: relative;
+  line-height: 38px;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 32px;
+}
+.backgroundborder-parent,
+.input1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.input1 {
+  width: 75.1px;
+  border-radius: 30px;
+  background-color: #000;
+  border: 2px solid #000;
+  box-sizing: border-box;
+  justify-content: flex-start;
+  padding: 0 17px 1px 22px;
+}
+.backgroundborder-parent {
+  justify-content: center;
+  gap: 40px;
+  max-width: 100%;
+}
+.image-icon7 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  object-fit: cover;
+}
+.image-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 1.5px;
+}
+.one-off {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  min-width: 69.5px;
+}
+.svg-icon3 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-parent18,
+.one-off-parent,
+.svg-frame {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.svg-frame {
+  flex-direction: column;
+  padding: 2px 0 0;
+}
+.frame-parent18,
+.one-off-parent {
+  flex-direction: row;
+  gap: 3.8px;
+}
+.frame-parent18 {
+  align-items: flex-end;
+  gap: 9px;
+}
+.image-icon8 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.image-wrapper1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 5px 1.5px 0;
+}
+.monthly {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  min-width: 70.6px;
+}
+.svg-icon4 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  object-fit: cover;
+}
+.svg-wrapper1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2px;
+}
+.frame-parent19 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 3.8px;
+}
+.image-icon9 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  object-fit: cover;
+}
+.image-wrapper2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 5px 1.5px 0;
+}
+.annual {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  min-width: 61.1px;
+}
+.svg-icon5 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  object-fit: cover;
+}
+.svg-wrapper2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2px;
+}
+.frame-parent20 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 3.8px;
+}
+.background-inner,
+.background6,
+.frame-parent17 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 100%;
+}
+.frame-parent17 {
+  flex-wrap: wrap;
+  gap: 40.6px;
+}
+.background-inner,
+.background6 {
+  width: 632px;
+  padding: 0 0 0 5px;
+  box-sizing: border-box;
+  text-align: left;
+}
+.background6 {
+  position: absolute;
+  top: 687.5px;
+  left: 772.2px;
+  background-color: #6546bd;
+  width: 1152px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 41px 20px 72px;
+  gap: 27px;
+  z-index: 3;
+  text-align: center;
+  font-size: 18px;
+  color: #fff;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 975px) {
+  .heading-27 {
+    font-size: 26px;
+    line-height: 30px;
+  }
+  .backgroundborder-parent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-27 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

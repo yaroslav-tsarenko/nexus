@@ -1,0 +1,92 @@
+.first-name {
+  position: relative;
+  line-height: 28px;
+  display: inline-block;
+  min-width: 102px;
+}
+.first-name-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1.5px 0 0;
+}
+.div2 {
+  position: relative;
+  font-size: 13px;
+  line-height: 28px;
+  display: inline-block;
+  min-width: 8px;
+}
+.frame-parent80 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.6px;
+}
+.input4 {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 47px;
+  position: relative;
+}
+.frame-parent79 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8.5px;
+}
+.your-job-title {
+  position: relative;
+  line-height: 28px;
+  display: inline-block;
+  min-width: 119.1px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.your-job-title-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1.5px 0 0;
+}
+.div3 {
+  position: relative;
+  font-size: 13px;
+  line-height: 28px;
+  display: inline-block;
+  min-width: 8px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.frame-parent78,
+.frame-parent81 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.1px;
+}
+.frame-parent78 {
+  flex: 1;
+  flex-direction: column;
+  gap: 21px;
+  min-width: 260px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 20px;
+  color: #000;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 450px) {
+  .first-name,
+  .your-job-title {
+    font-size: 16px;
+    line-height: 22px;
+  }
+}
